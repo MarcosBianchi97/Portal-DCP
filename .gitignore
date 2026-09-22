@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.swp
+
+# Notas internas para Claude Code, solo local
+CLAUDE.md

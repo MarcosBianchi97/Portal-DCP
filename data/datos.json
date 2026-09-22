@@ -1,0 +1,17 @@
+{
+  "_instrucciones": "Datos de EJEMPLO. Reemplazar los numeros de cada mes por los reales. No borrar ningun mes ni cambiar los nombres de los campos.",
+  "2026": [
+    { "mes": "Enero",     "relevamientos": 18, "familias_asistidas": 34, "reportes": 12 },
+    { "mes": "Febrero",   "relevamientos": 22, "familias_asistidas": 41, "reportes": 15 },
+    { "mes": "Marzo",     "relevamientos": 26, "familias_asistidas": 58, "reportes": 21 },
+    { "mes": "Abril",     "relevamientos": 19, "familias_asistidas": 37, "reportes": 14 },
+    { "mes": "Mayo",      "relevamientos": 15, "familias_asistidas": 29, "reportes": 9  },
+    { "mes": "Junio",     "relevamientos": 12, "familias_asistidas": 22, "reportes": 8  },
+    { "mes": "Julio",     "relevamientos": 20, "familias_asistidas": 45, "reportes": 17 },
+    { "mes": "Agosto",    "relevamientos": 24, "familias_asistidas": 52, "reportes": 19 },
+    { "mes": "Septiembre","relevamientos": 21, "familias_asistidas": 40, "reportes": 13 },
+    { "mes": "Octubre",   "relevamientos": 17, "familias_asistidas": 33, "reportes": 11 },
+    { "mes": "Noviembre", "relevamientos": 30, "familias_asistidas": 71, "reportes": 28 },
+    { "mes": "Diciembre", "relevamientos": 16, "familias_asistidas": 31, "reportes": 10 }
+  ]
+}
